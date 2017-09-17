@@ -1,0 +1,43 @@
+def main():
+  print("x is ", end="")
+  x = int(input())
+  while (x<0 or x>23):
+       print("Retry: ", end="");
+       x =int(input())
+  
+  for i in range (x-i): 
+    print(" ",end="")                                     #  to enter new row  (vertical axis loop)
+   for j in range (x-i):
+                            def main():
+  print("x is ", end="")
+  x = int(input())
+  while (x<0 or x>23):
+       print("Retry: ", end="");
+       x =int(input())
+  
+  for i in range (x-i): 
+    print(" ",end="")                                     #  to enter new row  (vertical axis loop)
+   for j in range (x-i):
+   for i in range (x):
+    print ("#", end="")   # to print no of #    (horizontal loop)// to intiate j  from zero each time
+  print("  ", end="")                                            
+
+  
+  
+  
+  
+  
+    
+if __name__ == "__main__":
+    main()  # for i in range (x):
+    print ("#", end="")   # to print no of #    (horizontal loop)// to intiate j  from zero each time
+  print("  ", end="")                                            
+
+  
+  
+  
+  
+  
+    
+if __name__ == "__main__":
+    main()
